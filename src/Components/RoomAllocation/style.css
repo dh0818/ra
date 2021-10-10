@@ -1,0 +1,32 @@
+.roomAllocation {
+  width: 335px;
+  margin: 12px 14px;
+}
+
+.notYetAssign {
+  width: 335px;
+  background-color: #f1fdff;
+  border-radius: 5px;
+  border: 1.5px solid #d2edf7;
+  padding: 15px;
+  font-size: 14px;
+  margin: 17px 0;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.lineContainer {
+  width: 100%;
+  height: 20px;
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.line {
+  width: 100%;
+}

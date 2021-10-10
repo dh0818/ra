@@ -1,0 +1,33 @@
+.customInputNum {
+  display: flex;
+  margin: 8px 8px 8px 8px;
+  width: 160px;
+  outline: none;
+}
+
+.mpButton {
+  height: 48px;
+  width: 48px;
+  border-radius: 5px;
+  border: 1.5px solid #4a9ecd;
+  background-position: center;
+  background-size: 75%;
+}
+
+.mButton {
+  background-image: url("/minus.png");
+}
+
+.pButton {
+  background-image: url("/plus.png");
+}
+
+.inputNum {
+  height: 48px;
+  width: 48px;
+  border-radius: 5px;
+  border: 1.5px solid #bfbfbf;
+  text-align: center;
+  font-size: 16px;
+  margin: 0px 8px;
+}

@@ -1,0 +1,33 @@
+.room {
+  margin-top: 5px;
+  width: 341px;
+}
+
+.title1 {
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.panel {
+  font-weight: bold;
+  margin-top: 7px;
+}
+
+.title2 {
+  font-size: 15px;
+}
+
+.description {
+  color: #acacac;
+  font-size: 15px;
+}
+
+.leftPart {
+  float: left;
+  clear: both;
+  margin-top: 6px;
+}
+
+.rightPart {
+  float: right;
+}
